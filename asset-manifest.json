@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.afd7172b.chunk.css",
-    "main.js": "/static/js/main.62b326e6.chunk.js",
-    "main.js.map": "/static/js/main.62b326e6.chunk.js.map",
+    "main.js": "/static/js/main.cc9bc919.chunk.js",
+    "main.js.map": "/static/js/main.cc9bc919.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.acd5cc97.js",
     "runtime-main.js.map": "/static/js/runtime-main.acd5cc97.js.map",
     "static/css/2.da1eef19.chunk.css": "/static/css/2.da1eef19.chunk.css",
-    "static/js/2.b460848b.chunk.js": "/static/js/2.b460848b.chunk.js",
-    "static/js/2.b460848b.chunk.js.map": "/static/js/2.b460848b.chunk.js.map",
+    "static/js/2.b17bc714.chunk.js": "/static/js/2.b17bc714.chunk.js",
+    "static/js/2.b17bc714.chunk.js.map": "/static/js/2.b17bc714.chunk.js.map",
     "static/js/3.82639ca9.chunk.js": "/static/js/3.82639ca9.chunk.js",
     "static/js/3.82639ca9.chunk.js.map": "/static/js/3.82639ca9.chunk.js.map",
     "index.html": "/index.html",
@@ -15,13 +15,14 @@
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.da1eef19.chunk.css.map": "/static/css/2.da1eef19.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.b460848b.chunk.js.LICENSE.txt": "/static/js/2.b460848b.chunk.js.LICENSE.txt"
+    "static/js/2.b17bc714.chunk.js.LICENSE.txt": "/static/js/2.b17bc714.chunk.js.LICENSE.txt",
+    "static/media/Standard Treatment Protocol of emergency Health Service.e7542ee1.png": "/static/media/Standard Treatment Protocol of emergency Health Service.e7542ee1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.acd5cc97.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.b460848b.chunk.js",
+    "static/js/2.b17bc714.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.62b326e6.chunk.js"
+    "static/js/main.cc9bc919.chunk.js"
   ]
 }
